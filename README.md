@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👩🏻‍💻 Jeter Yan
 
-<!--
-**JeterYan/JeterYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Java Back-end`**
 
-Here are some ideas to get you started:
+Me chamo Jeter Yan, tenho 27 anos e sou natural de Londrina, PR. Atualmente, estou cursando Ciências da Computação, sou formado em Técnico em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento com vocês por meio do meu portfólio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img
+align="left"
+alt="Java"
+title="Java"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+align="left"
+alt="Spring Boot"
+title="Spring Boot"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+
+<img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
